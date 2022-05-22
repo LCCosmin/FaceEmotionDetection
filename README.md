@@ -2,6 +2,9 @@
 
 Simple application that detects your emotion based on your face making use of OpenCV with HaarCascades  framework to detect the face and DeepFace framework to detect the emotion.
 
+# Requirements
+
+In order to be able to run this project you need to have Python 3.10+ and a GPU.
 
 # Setup
 
